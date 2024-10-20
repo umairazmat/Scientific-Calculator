@@ -1,0 +1,5 @@
+calculator/Lib/
+calculator/Scripts/
+calculator
+__pycache__
+.env
