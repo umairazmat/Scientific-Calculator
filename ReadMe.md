@@ -6,6 +6,8 @@ It is a powerful, all-in-one calculator for both basic arithmetic and advanced s
 
 ## Getting Started
 
+Deployed App Link : https://scientific-calculator-app.streamlit.app/
+
 ### Prerequisites
 
 - Python 3.7 or higher

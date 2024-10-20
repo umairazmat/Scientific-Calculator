@@ -20,8 +20,14 @@ def divide(x, y):
     return x / y
 
 
-# Streamlit app title
-st.title("Calculator")
+# Streamlit app title with developer credit
+# HTML to style the title and subheadings
+st.markdown("<h1 style='color: green;'>InfinityCalc</h1>", unsafe_allow_html=True)
+st.markdown(
+    "<h3 style='color: red;'>Developed by Umair Azmat</h3>", unsafe_allow_html=True
+)
+
+# Add description text with Streamlit
 st.write("This is a simple calculator app.")
 st.write(
     "Enter two numbers and select the operation from the dropdown to perform the calculation."

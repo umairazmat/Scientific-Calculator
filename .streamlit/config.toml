@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#4CAF50"         # Change to your desired primary color (green in this case)
+backgroundColor = "#F0F0F0"      # Background color
+secondaryBackgroundColor = "#FFFFFF" # Secondary background color
+textColor = "#000000"            # Text color (black)
+font = "sans serif"              # Font style (e.g., sans serif, serif, monospace)
